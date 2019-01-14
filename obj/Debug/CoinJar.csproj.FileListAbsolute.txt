@@ -1,0 +1,8 @@
+c:\users\sia\documents\visual studio 2015\Projects\CoinJar\CoinJar\bin\Debug\CoinJar.exe.config
+c:\users\sia\documents\visual studio 2015\Projects\CoinJar\CoinJar\obj\Debug\CoinJar.csprojResolveAssemblyReference.cache
+S:\CoinJar\CoinJar\CoinJar\bin\Debug\CoinJar.exe.config
+S:\CoinJar\CoinJar\CoinJar\bin\Debug\CoinJar.exe
+S:\CoinJar\CoinJar\CoinJar\bin\Debug\CoinJar.pdb
+S:\CoinJar\CoinJar\CoinJar\obj\Debug\CoinJar.csprojResolveAssemblyReference.cache
+S:\CoinJar\CoinJar\CoinJar\obj\Debug\CoinJar.exe
+S:\CoinJar\CoinJar\CoinJar\obj\Debug\CoinJar.pdb
